@@ -1,0 +1,11 @@
+state: enabled
+email: purwanto@smaller.id
+fullname: admin
+title: Administrator
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$icpZPbsST2FnIc30ngI1fOTzwC1wXi.xi1KP7t3sJAOWId1qpQ3d6
